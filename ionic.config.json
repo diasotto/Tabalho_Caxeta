@@ -1,0 +1,7 @@
+{
+  "name": "Tabalho_Caxeta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
